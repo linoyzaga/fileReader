@@ -1,0 +1,10 @@
+{
+  "name": "newrelic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "n-readlines": "^1.0.0",
+    "readline": "^1.3.0"
+  }
+}
