@@ -7,11 +7,12 @@
    `git clone https://github.com/linoyzaga/fileReader.git`
 
 2. Go to the repository library:
+
    `cd fileReader`
 
 3. Install packages:
 
-`yarn install`
+   `yarn install`
 
 4. Strat the server
 
@@ -27,10 +28,10 @@ Breaking down the basic structure and the configurations
 src/
   data
     file.csv            // file to read from, just for example
-.gitignore                      // github's default node gitignore with customizations
-index.js                        // server's strart point
-package.json                    // common dev deps and workspace-wide scripts
-README.md                       // workspace-wide information. shown in github
+.gitignore              // github's default node gitignore with customizations
+index.js                // server's strart point
+package.json            // common dev deps and workspace-wide scripts
+README.md               // workspace-wide information. shown in github
 ```
 
 ---
